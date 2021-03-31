@@ -1,0 +1,23 @@
+{
+  "name": "gitBook",
+  "version": "1.0.0",
+  "description": "GitBook -demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idonothaveusername/gitBook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idonothaveusername/gitBook/issues"
+  },
+  "homepage": "https://github.com/idonothaveusername/gitBook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
